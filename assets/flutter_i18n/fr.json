@@ -1,0 +1,32 @@
+{
+    "drawer": {
+        "missing_persons": "Personnes",
+        "saved": "Enregistré",
+        "map": "Carte",
+        "breakdown": "Graphiques",
+        "sync": "Synchroniser"
+    },
+
+    "person_dialog": {
+        "missing_since": "Disparu Depuis: ",
+        "last_location": "Dernier Emplacement: "
+    },
+
+    "person_list": {
+        "notification_dialog": "Les notifications programmées sont actuellement désactivées. Veuillez aller dans Paramètres et réactivez-les pour utiliser cette fonctionnalité."
+    },
+
+    "settings": {
+        "title": "Réglages",
+        "language": "Paramètres de Langue",
+        "notifications": {
+            "title": "Paramètres de Notification",
+            "scheduled": "Notifications Programmées",
+            "featured": "Personnes en Vedette"
+        },
+        "tutorial": {
+            "title": "Paramètres du Didacticiel",
+            "text": "Afficher les didacticiels de l'application"
+        }
+    }
+}

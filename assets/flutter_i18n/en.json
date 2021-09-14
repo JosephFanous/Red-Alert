@@ -1,0 +1,33 @@
+{
+    "drawer": {
+        "missing_persons": "Missing Persons",
+        "saved": "Saved",
+        "map": "Map",
+        "breakdown": "Breakdown",
+        "sync": "Sync",
+        "about": "About Red Alert"
+    },
+
+    "person_dialog": {
+        "missing_since": "Missing Since: ",
+        "last_location": "Last Location: "
+    },
+
+    "person_list": {
+        "notification_dialog": "Scheduled notifications are currently disabled. Please go to Settings and re-enable them to use this feature."
+    },
+
+    "settings": {
+        "title": "Settings",
+        "language": "Language Settings",
+        "notifications": {
+            "title": "Notification Settings",
+            "scheduled": "Scheduled Notifications",
+            "featured": "Featured Persons"
+        },
+        "tutorial": {
+            "title": "Tutorial Settings",
+            "text": "Display App Tutorials"
+        }
+    }
+}

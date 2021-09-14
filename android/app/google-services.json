@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853214420970",
+    "firebase_url": "https://missing-persons-csci4100.firebaseio.com",
+    "project_id": "missing-persons-csci4100",
+    "storage_bucket": "missing-persons-csci4100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853214420970:android:b7c25fc3e453d8a1f29c93",
+        "android_client_info": {
+          "package_name": "com.example.major_group_project_redalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853214420970-2no108ibsij4775nro7u3o8j9cedmoln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKIm3BIebikXImyyLUwMW_o5Mrrt8e6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853214420970-2no108ibsij4775nro7u3o8j9cedmoln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
